@@ -4,6 +4,15 @@
 부족함은 열린 마음으로 배우며 채워가고, 배워서 알게 된 것들은 책임감을 가지고 성실하게 실천하는 <br>
 프론트 개발자 김지선입니다.🙇‍♀️
 
+### 💡Career💡
+• 주식회사 와이엠씨: 2022.04 ~ 2022.07 ( 정부과제 참여로 인한 소속 이동 ) 
+• 크레페스튜디오  : 2022.08 ~ 2024.06
+
+### 💡Education💡
+• 국비지원 정보처리산업기사 자격증반 과정 수료( 2020.09 ~ 2021.02 )
+• 정보처리산업기사 자격증 취득 ( 2022.03 )
+
+
 ### 🖱Skils
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
