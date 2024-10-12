@@ -46,4 +46,5 @@
 |<a href="https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%BC%EB%8B%AC%EB%A0%A5/id6502922901" > 그림달력 </a>|그림일기장과 같으나, 컨셉만 다른 버전입니다.|
 
  <br> <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jisun-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
