@@ -2,7 +2,11 @@
 
 안녕하세요:) <br>
 부족함은 열린 마음으로 배우며 채워가고, 배워서 알게 된 것들은 책임감을 가지고 성실하게 실천하는 <br>
-프론트 개발자 김지선입니다.🙇‍♀️
+프론트 개발자 김지선입니다.🙇‍♀️<br>
+
+<a href="https://continuous-macrame-1a0.notion.site/JISUN-KIM-150536612dce8053a7fff896c56f65ce">
+  <img src="https://github.com/user-attachments/assets/bfeacaae-ac24-4b03-a832-73bf42c2e2d4" width="32" height="32" alt="notion">
+</a>
 
 ### 💡Career💡
 • 주식회사 와이엠씨: 2022.04 ~ 2022.07 ( 정부과제 참여로 인한 소속 이동 ) <br> 
