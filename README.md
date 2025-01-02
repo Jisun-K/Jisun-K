@@ -7,8 +7,14 @@
 <a href="https://continuous-macrame-1a0.notion.site/JISUN-KIM-150536612dce8053a7fff896c56f65ce">
   <img src="https://github.com/user-attachments/assets/bfeacaae-ac24-4b03-a832-73bf42c2e2d4" width="32" height="32" alt="notion">
 </a>
+&nbsp;&nbsp;
+<a href="https://jisun-k.github.io/portfolio_angular/">
+  <img src="https://github.com/user-attachments/assets/9e7275ae-3d5a-4f12-b2b1-d87253801990" width="32" height="32" alt="portfolio" stlyle=" border-radius: 50%;">
+</a>
+
 
 ### 💡Career💡
+
 • 주식회사 와이엠씨: 2022.04 ~ 2022.07 ( 정부과제 참여로 인한 소속 이동 ) <br> 
 • 크레페스튜디오  : 2022.08 ~ 2024.06
 
