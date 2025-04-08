@@ -8,9 +8,6 @@
   <img src="https://github.com/user-attachments/assets/bfeacaae-ac24-4b03-a832-73bf42c2e2d4" width="32" height="32" alt="notion">
 </a>
 &nbsp;&nbsp;
-<a href="https://jisun-k.github.io/portfolio_angular/">
-  <img src="https://github.com/user-attachments/assets/9e7275ae-3d5a-4f12-b2b1-d87253801990" width="32" height="32" alt="portfolio" stlyle=" border-radius: 50%;">
-</a>
 
 
 ### 💡Career💡
@@ -51,7 +48,6 @@
 ### Participation Project
 |Name|description|
 |:---:|:---:|
-|<a href="https://jisun-k.github.io/portfolio_angular/">포트폴리오(웹)</a>|angular 를 사용하여 만든 포트폴리오입니다. 내부 라우팅을 사용하여 상태에 따른 화면 전환이 되도록 하였습니다.|
 |<a href="https://blank365.com/account/login">Blank</a>|pwa를 활용한 웹 서비스입니다. 오픈 소스를 사용하지 않고, 직접 기능 구현하였습니다.|
 |<a href="https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%BC%EC%9D%BC%EA%B8%B0%EC%9E%A5/id6484594992" > 그림일기장 </a>| Angular-TypeScript로 먼저 웹에서 사용할 수 있게 작업하였지만, swiftUI webView를 사용하여 통해 앱으로 출시를 하였습니다.<br> 전체적인 기획, 디자인을 담당하고 프론트 개발 및 파이어베이스를 이용한 백환경 설정도 담당하였습니다. |
 |<a href="https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%BC%EB%8B%AC%EB%A0%A5/id6502922901" > 그림달력 </a>|그림일기장과 같으나, 컨셉만 다른 버전입니다.|
