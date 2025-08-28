@@ -46,8 +46,10 @@
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Participation Project
+
 |Name|description|
 |:---:|:---:|
+|<a href="https://myportfolio-eta-dusky.vercel.app">나의포트폴리오</a>|Next.js를 이용하여 만든 포트폴리오 웹사이트입니다.|
 |<a href="https://github.com/Jisun-K/springboard">게시판</a>|Java Springboot 를 이용해 만든 웹 게시판입니다.|
 |<a href="https://blank365.com/account/login">Blank</a>|pwa를 활용한 웹 서비스입니다. 오픈 소스를 사용하지 않고, 직접 기능 구현하였습니다.|
 |<a href="https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%BC%EC%9D%BC%EA%B8%B0%EC%9E%A5/id6484594992" > 그림일기장 </a>| Angular-TypeScript로 먼저 웹에서 사용할 수 있게 작업하였지만, swiftUI webView를 사용하여 통해 앱으로 출시를 하였습니다.<br> 전체적인 기획, 디자인을 담당하고 프론트 개발 및 파이어베이스를 이용한 백환경 설정도 담당하였습니다. |
