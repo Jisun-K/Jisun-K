@@ -54,7 +54,3 @@
 |<a href="https://blank365.com/account/login">Blank</a>|pwa를 활용한 웹 서비스입니다. 오픈 소스를 사용하지 않고, 직접 기능 구현하였습니다.|
 |<a href="https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%BC%EC%9D%BC%EA%B8%B0%EC%9E%A5/id6484594992" > 그림일기장 </a>| Angular-TypeScript로 먼저 웹에서 사용할 수 있게 작업하였지만, swiftUI webView를 사용하여 통해 앱으로 출시를 하였습니다.<br> 전체적인 기획, 디자인을 담당하고 프론트 개발 및 파이어베이스를 이용한 백환경 설정도 담당하였습니다. |
 |<a href="https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%BC%EB%8B%AC%EB%A0%A5/id6502922901" > 그림달력 </a>|그림일기장과 같으나, 컨셉만 다른 버전입니다.|
-
- <br> <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jisun-K&layout=compact)
-
